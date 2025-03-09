@@ -1,54 +1,9 @@
-<body bgcolor="#121212">
-  <center>
-    <h1><font color="#001f3f">علی خسروجردی</font></h1>
-    <p><font color="#e0e0e0">دوستام منو <strong>ali powerful</strong> صدا میکنن.</font></p>
-  </center>
-  <br>
-  <table align="center" width="800" bgcolor="#1c1c1c" cellspacing="0" cellpadding="10">
-    <tr>
-      <td>
-        <h2 align="center"><font color="#001f3f">درباره من</font></h2>
-        <p><font color="#e0e0e0">در سن 17 سالگی به عنوان یک برنامه‌نویس C# و توسعه‌دهنده ASP.NET با اشتیاق به حل مسئله و کار تیمی فعالیت می‌کنم. با وجود تجربه کاری رسمی، علاقه و پشتکار من را به یادگیری مداوم سوق می‌دهد.</font></p>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <table align="center" width="800" bgcolor="#1c1c1c" cellspacing="0" cellpadding="10">
-    <tr>
-      <td>
-        <h2 align="center"><font color="#001f3f">مهارت‌ها و تکنولوژی‌ها</font></h2>
-        <center>
-          <font color="#e0e0e0">
-            <b>ASP.NET</b> | <b>C#</b> | <b>Microsoft SQL Server</b>
-          </font>
-        </center>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <table align="center" width="800" bgcolor="#1c1c1c" cellspacing="0" cellpadding="10">
-    <tr>
-      <td>
-        <h2 align="center"><font color="#001f3f">ارتباط با من</font></h2>
-        <center>
-          <a href="https://t.me/ali_powerful7" target="_blank"><font color="#1E90FF">تلگرام</font></a>
-          &nbsp;&nbsp;
-          <a href="mailto:ali7.khosrojerdi@gmail.com"><font color="#1E90FF">Gmail</font></a>
-        </center>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <table align="center" width="800" bgcolor="#1c1c1c" cellspacing="0" cellpadding="10">
-    <tr>
-      <td align="center">
-        <h2><font color="#001f3f">استیکرها</font></h2>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Windows_logo_-_2012.svg" alt="Windows Sticker" width="50" height="50">
-        &nbsp;
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Windows_logo_-_2012.svg" alt="Windows Sticker" width="50" height="50">
-        &nbsp;
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Windows_logo_-_2012.svg" alt="Windows Sticker" width="50" height="50">
-      </td>
-    </tr>
-  </table>
-</body>
+<h1 align="center">Hi 👋, I'm Ali Khosrojerdi</h1>
+<h3 align="center">A passionate backend developer from Iran</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
