@@ -14,11 +14,3 @@
 * 🎬 Watching Movies (especially sci-fi & psychological)  
 * 🌌 Interested in the Galaxy and Space Stuff  
 * 🍝 Absolutely in Love With Alfredo Pasta
-
----
-
-## 🎯 Interests  
-* ⚽ Watching Cristiano Ronaldo’s Football Matches  
-* 🎬 Watching Movies (especially sci-fi & psychological)  
-* 🌌 Interested in the Galaxy and Space Stuff  
-* 🍝 Absolutely in Love With Alfredo Pasta
