@@ -1,9 +1,75 @@
-<h1 align="center">سلام 👋، من علی خسروجردی هستم</h1>
-<h3 align="center">✨یک توسعه دهنده پرشور بک اند از ایران✨</h3>
-<h4 align="center">سلام! من علی خسروجردی هستم، برنامه نویس C# و توسعه‌دهنده ASP.NET که علاقه‌مند به یادگیری و حل مسائل پیچیده در دنیای فناوری اطلاعات می‌باشم. از همان ابتدای آشنایی با برنامه‌نویسی، متوجه شدم که چالش‌های فنی و نیاز به خلاقیت در حل مشکلات، مسیر حرفه‌ای من را مشخص کرده‌اند. 🎯هدف اصلی من کسب تجربه بیشتر و رشد مداوم در حرفه برنامه نویسی است تا بتوانم به بهترین شکل ممکن در پروژه‌های مختلف نقش داشته باشم.👨‍💻یکی از جالب‌ترین بخش‌های داستان من این است که در میان دوستانم به عنوان "ali powerful" شناخته می‌شوم؛ این لقب نمادی از اراده، قدرت و اشتیاق من برای مواجهه با چالش‌های پیچیده در دنیای کدنویسی است.🤝 هر پروژه‌ای که آغاز می‌کنم، فرصتی است برای یادگیری و بهبود مهارت‌هایم و تلاش برای ارائه راه‌حل‌های نوین در محیط‌های تیمی.از اینکه به این سفر حرفه‌ای پیوسته‌ام، مفتخرم و مشتاقم تا تجربیاتم را در این پلتفرم با دیگران به اشتراک بگذارم.😁</h4>
+### Hi there 👋 I`m Ali Khosrojerdi
+[![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=github)](https://github.com/alipowerful7)
+[![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=telegram)](https://t.me/alipowerful7)
 
-<h3 align="right">ارتباط با من:</h3>
-<p align="right"><a href="https://t.me/ali_powerful7">telegram</a> <a href="mailto:ali7.khosrojerdi@gmail.com">gmail</a></p>
 
-<h3 align="right">زبان برنامه نویسی و ابزار ها:</h3>
-<p align="right"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working as backend intern at [Eghamat24.com](https://www.eghamat24.com)
+
+## Technical Skills
+* ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+* ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)
+* ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+## Interest
+* Watching Cristiano Ronaldo Football
+* Watch Movie
+* Interested In The Galaxy
+* Absolutely In Love With Alfredo Pasta
+
+
+
+
+
+
+### Hi there 👋 I`m Ali Khosrojerdi  
+[![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=github)](https://github.com/alipowerful7)  
+[![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=telegram)](https://t.me/alipowerful7)
+
+- 🔭 I’m currently working as backend intern at [Eghamat24.com](https://www.eghamat24.com)
+
+## 🚀 Technical Skills  
+* ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)  
+* ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)  
+* ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+## 🎯 Interests  
+* ⚽ Watching Cristiano Ronaldo’s Football Matches  
+* 🎬 Watching Movies (especially sci-fi & psychological)  
+* 🌌 Interested in the Galaxy and Space Stuff  
+* 🍝 Absolutely in Love With Alfredo Pasta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="wave" width="30" /> I’m Ali Khosrojerdi  
+[![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=github)](https://github.com/alipowerful7)  
+[![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=telegram)](https://t.me/alipowerful7)
+
+- 🔭 I’m currently working as backend intern at [Eghamat24.com](https://www.eghamat24.com)
+
+---
+
+## 🚀 Technical Skills  
+* ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)  
+* ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)  
+* ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)  
+* ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+---
+
+## 🎯 Interests  
+* ⚽ Watching Cristiano Ronaldo’s Football Matches  
+* 🎬 Watching Movies (especially sci-fi & psychological)  
+* 🌌 Interested in the Galaxy and Space Stuff  
+* 🍝 Absolutely in Love With Alfredo Pasta
