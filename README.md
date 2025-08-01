@@ -1,26 +1,3 @@
-### Hi there 👋 I`m Ali Khosrojerdi
-[![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=github)](https://github.com/alipowerful7)
-[![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=telegram)](https://t.me/alipowerful7)
-
-
-- 🔭 I’m currently working as backend intern at [Eghamat24.com](https://www.eghamat24.com)
-
-## Technical Skills
-* ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
-* ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)
-* ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-
-## Interest
-* Watching Cristiano Ronaldo Football
-* Watch Movie
-* Interested In The Galaxy
-* Absolutely In Love With Alfredo Pasta
-
-
-
-
-
-
 ### Hi there 👋 I`m Ali Khosrojerdi  
 [![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=github)](https://github.com/alipowerful7)  
 [![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=telegram)](https://t.me/alipowerful7)
@@ -37,34 +14,6 @@
 * 🎬 Watching Movies (especially sci-fi & psychological)  
 * 🌌 Interested in the Galaxy and Space Stuff  
 * 🍝 Absolutely in Love With Alfredo Pasta
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="wave" width="30" /> I’m Ali Khosrojerdi  
-[![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=github)](https://github.com/alipowerful7)  
-[![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=telegram)](https://t.me/alipowerful7)
-
-- 🔭 I’m currently working as backend intern at [Eghamat24.com](https://www.eghamat24.com)
-
----
-
-## 🚀 Technical Skills  
-* ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)  
-* ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)  
-* ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)  
-* ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ---
 
