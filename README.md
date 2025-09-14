@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=telegram)](https://t.me/alipowerful7)    
 [![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=gmail)](mailto:ali7.khosrojerdi@gmail.com)
 
-- 🔭 I’m currently working as backend intern at [Eghamat24.com](https://www.eghamat24.com)
+- 🔭 I’m currently working as backend developer at [Eghamat24.com](https://www.eghamat24.com)
 
 ## 🚀 Technical Skills  
 * ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)  
