@@ -11,6 +11,10 @@
 * ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)  
 * ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
+### Laravel
+
+<img src="https://laravel.com/img/logomark.min.svg" width="15"> [Laravel Framework](https://github.com/laravel/framework/pulls?q=is%3Amerged+author%3Aalipowerful7+) <br>
+
 ## 🎯 Interests  
 * ⚽ Watching Cristiano Ronaldo’s Football Matches  
 * 🎬 Watching Movies (especially sci-fi & psychological)  
