@@ -11,7 +11,7 @@
 * ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)  
 * ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
-## Open Source Contributions
+## ✌️ Open Source Contributions
 
 ### Laravel
 
