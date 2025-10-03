@@ -8,7 +8,7 @@
 
 ## 🚀 Technical Skills  
 * ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)  
-* ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)  
+* ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)  ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis) 
 * ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ## ✌️ Open Source Contributions
