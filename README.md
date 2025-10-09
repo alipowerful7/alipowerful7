@@ -13,9 +13,13 @@
 
 ## ✌️ Open Source Contributions
 
-### Laravel
+### Laravel Freamwork
 
 <img src="https://laravel.com/img/logomark.min.svg" width="15"> [Laravel Framework](https://github.com/laravel/framework/pulls?q=is%3Amerged+author%3Aalipowerful7+) <br>
+
+### Laravel Docs
+
+<img src="https://laravel.com/img/logomark.min.svg" width="15"> [Laravel Docs](https://github.com/laravel/docs/pulls?q=is%3Amerged+author%3Aalipowerful7+) <br>
 
 ## 🎯 Interests  
 * ⚽ Watching Cristiano Ronaldo’s Football Matches  
