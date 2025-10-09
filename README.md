@@ -13,7 +13,7 @@
 
 ## ✌️ Open Source Contributions
 
-### Laravel Freamwork
+### Laravel Framework
 
 <img src="https://laravel.com/img/logomark.min.svg" width="15"> [Laravel Framework](https://github.com/laravel/framework/pulls?q=is%3Amerged+author%3Aalipowerful7+) <br>
 
