@@ -2,6 +2,7 @@
 [![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=gitlab)](https://gitlab.com/alipowerful7)  
 [![](https://img.shields.io/badge/-@alipowerful7-%23181717?style=flat-square&logo=telegram)](https://t.me/alipowerful7)    
 [![](https://img.shields.io/badge/-ali7.khosrojerdi@gmail.com-%23181717?style=flat-square&logo=gmail)](mailto:ali7.khosrojerdi@gmail.com)
+[![](https://img.shields.io/badge/-ali7.khosrojerdi@gmail.com-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ali-khosrojerdi7)
 
 - 🔭 I’m currently working as backend developer at [Eghamat24.com](https://www.eghamat24.com)
 
